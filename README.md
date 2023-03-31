@@ -1,4 +1,4 @@
-<img src="img/dogcode.jpg" width="40%">
+<img src="img/dogcode.jpg" width="20%">
 <h2>dogcode</h2>
 <h3>Testes no React com Vitest, Testing Library e Jest</h3>
 
