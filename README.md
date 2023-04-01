@@ -16,4 +16,4 @@
 
 <hr>
 
-<h4><b>Status do projeto:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do projeto:</b> ✅ Concluído</h4>
